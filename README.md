@@ -1,7 +1,7 @@
 # Supplementary Videos for VSIC
 
 This repository provides a supplementary video for the manuscript on
-**Variable Stiffness Impedance Control with Sim-to-Real Transfer for Robot-Assisted Ultrasound Scanning Across Rib-Constrained Anatom**.
+**Variable Stiffness Impedance Control with Sim-to-Real Transfer for Robot-Assisted Ultrasound Scanning Across Rib-Constrained Anatomical Regions**.
 
 ## Overview
 
