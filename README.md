@@ -2,7 +2,7 @@
 
 This repository provides a supplementary video for the manuscript on
 **Variable Stiffness Impedance Control with Sim-to-Real Transfer for Robot-Assisted Ultrasound Scanning Across Rib-Constrained Anatomical Regions**.
-
+** This paper is currently under review at IEEE Transactions on Automation Science and Engineering (T-ASE).**
 ## Overview
 
 The proposed VSIC framework addresses force-control challenges during
